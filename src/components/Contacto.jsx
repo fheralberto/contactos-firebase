@@ -102,7 +102,6 @@ const Boton = styled.button`
   padding: 0.2rem 0.5rem;
   border-radius: 0.3rem;
   outline: none;
-  background-color: #2563eb;
   transition: 0.3s ease background-color;
 
   &:hover {
